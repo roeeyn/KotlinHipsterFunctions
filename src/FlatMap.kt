@@ -6,7 +6,6 @@ fun main(args: Array<String>) {
 
     println(result)
 
-
     println(result == listOf('a', 'b', 'c', '1', '2'))
 
 }
