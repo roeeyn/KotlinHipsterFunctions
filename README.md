@@ -1,5 +1,5 @@
 # Kotlin 'Hipster' Functions
-Ejemplificación del uso básico de funciones with, let, run, apply
+Ejemplificación del uso básico de funciones with, let, run, apply, y uso bsico de funciones filter, map, flatmap, fold y reduce.
 
 ## Diferencia Entre las funciones
 | Function   | Function type | Target passed as | Returns            |
