@@ -86,6 +86,26 @@ fun main(args: Array<String>) {
 
     /*
     *
+    * Usualmente 'also' se aplica en los flujos de datos, para procesar la información
+    *
+    * */
+
+    println("Ejemplo de also:")
+
+    val original = "abc"
+
+    original.also {
+        println("The original String is $it") // "abc"
+    }.also {
+        println("The reverse String is ${it.reversed()}") // "cba"
+    }.also {
+        println("The length of the String is ${it.length}") // 3
+    }
+
+    println()
+
+    /*
+    *
     * Usualemnte se usa 'with' para evitar repetir la referencia a una instancia
     *
     * */
