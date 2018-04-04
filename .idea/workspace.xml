@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6edfc44-ef13-4462-9b78-377779dcddf9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/FlatMap.kt" afterPath="$PROJECT_DIR$/src/FlatMap.kt" />
-      <change beforePath="$PROJECT_DIR$/src/MapAndFilter.kt" afterPath="$PROJECT_DIR$/src/MapAndFilter.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapAndFilter.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MapAndFilter.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MapAndFilter.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -45,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlatMap.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FlatMap.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FlatMap.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="108">
+              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -81,8 +80,8 @@
         <option value="$PROJECT_DIR$/src/Map.kt" />
         <option value="$PROJECT_DIR$/src/Fold.kt" />
         <option value="$PROJECT_DIR$/src/FoldAndReduce.kt" />
-        <option value="$PROJECT_DIR$/src/FlatMap.kt" />
         <option value="$PROJECT_DIR$/src/MapAndFilter.kt" />
+        <option value="$PROJECT_DIR$/src/FlatMap.kt" />
       </list>
     </option>
   </component>
@@ -92,7 +91,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="27" />
     <option name="width" value="1920" />
     <option name="height" value="1053" />
@@ -311,15 +310,15 @@
       <option name="presentableId" value="Default" />
       <updated>1522776148070</updated>
       <workItem from="1522776154674" duration="3264000" />
-      <workItem from="1522794776033" duration="3146000" />
+      <workItem from="1522794776033" duration="4606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6410000" />
+    <option name="totallyTimeSpent" value="7870000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -386,14 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlatMap.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FoldAndReduce.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -406,6 +397,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlatMap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding />
         </state>
       </provider>
